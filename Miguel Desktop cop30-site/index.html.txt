@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <title>COP30 - Minecraft Edition</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<div class="menu">
+
+  <h1 class="titulo-animado">Temas discutidos na COP30 – Brasil</h1>
+
+  <p>
+    A COP30 é uma conferência global sobre clima onde países do mundo todo se reúnem para 
+    discutir maneiras de proteger o planeta. A sigla COP significa “Conferência das Partes”. 
+    Em 2025, o evento acontece no Brasil, destacando a importância da Amazônia.
+  </p>
+
+  <ol>
+    <li>Preservação da Amazônia</li>
+    <li>Redução de gases poluentes</li>
+    <li>Energia limpa e sustentável</li>
+  </ol>
+
+  <p>
+    A preservação da Amazônia é um dos assuntos mais importantes, pois ela ajuda a equilibrar 
+    o clima mundial e proteger espécies raras.
+  </p>
+
+  <img src="assets/grass.png" class="img-cop">
+
+  <button class="btn" onclick="somClique(); irParaCuriosidades();">Ir para Curiosidades</button>
+
+</div>
+
+<script src="script.js"></script>
+</body>
+</html>

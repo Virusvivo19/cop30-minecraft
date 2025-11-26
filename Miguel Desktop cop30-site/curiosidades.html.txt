@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <title>Curiosidades COP30</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<div class="menu">
+
+  <h1 class="titulo-animado">Curiosidades da COP30</h1>
+
+  <ul>
+    <li>A COP30 será realizada na Amazônia pela primeira vez.</li>
+    <li>Mais de 50 mil pessoas irão participar do evento.</li>
+    <li>O Brasil será o centro das discussões ambientais globais.</li>
+  </ul>
+
+  <button class="btn" onclick="somClique(); voltar();">Voltar</button>
+
+</div>
+
+<script src="script.js"></script>
+</body>
+</html>
