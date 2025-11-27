@@ -1,0 +1,7 @@
+body{
+  margin:0;
+  background:url('assets/bg.png');
+  font-family:'Minecraft', sans-serif;
+}
+#menu{ text-align:center; padding-top:100px; }
+button{ font-size:24px; padding:10px 20px; }
